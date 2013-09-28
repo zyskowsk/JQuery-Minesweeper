@@ -1,0 +1,31 @@
+#board {
+  width: 400px;
+  height: 400px;
+  background-color: white;
+}
+
+.square { 
+  width: 48px;
+  height: 48px;
+  float: left;
+}
+
+.square.hidden {
+  background-color: grey;
+  border: 1px white solid;
+}
+
+.square.bomb {
+  background-color: lightgrey;
+  border: 1px white solid;
+}
+
+.square.number {
+  background-color: lightgrey;
+  border: 1px white solid;
+}
+
+.square.empty {
+  background-color: lightgrey;
+  border: 1px white solid;
+}
