@@ -32,7 +32,7 @@ h1 {
   width: 463px;
   margin: auto;
   text-align: center;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
 }
 
 .header p {
@@ -44,7 +44,7 @@ h1 {
 .nav {
   width: 300px;
   margin: auto;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 .nav button {
@@ -173,7 +173,6 @@ span.bombChar {
   background-color: rgba(214, 214, 214, 0.3);
   display: none;
 }
-
 
 
 
